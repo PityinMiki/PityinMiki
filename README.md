@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PityinMiki
+- 👀 I’m interested in Gaming, Coding, and other stuff that is around computers
+- 🌱 I’m currently html, css, c# and javascript
+- 📫 How to reach me: @pityinmiki on instagram
